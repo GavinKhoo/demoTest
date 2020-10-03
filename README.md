@@ -3,7 +3,7 @@
 ## Project Init
 
 1. cd FOLDER [Your folder to store this project]
-2. git clone https://github.com/GavinKhoo/demoML
+2. git clone https://github.com/GavinKhoo/demoTest
 
 3. npm install
 4. cd ios && pod install
